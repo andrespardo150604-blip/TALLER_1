@@ -381,7 +381,7 @@ No tiene sentido afirmar:
 **Las variables permiten**:
  
  
- CONCEPTO
+ CONCEPTO total
   
 - Diseñar políticas públicas basadas en evidencia.
 - Medir eficiencia institucional.
