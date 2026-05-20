@@ -98,6 +98,8 @@ La **Historia de la Estadística** es el desarrollo de los métodos para recolec
 
 **Origen de la Estadística**
 
+Concepto
+
 La palabra “estadística” proviene del término alemán *Statistik*, relacionado con el estudio del Estado. Desde la antigüedad, los gobiernos necesitaban contar personas, animales, tierras y riquezas para cobrar impuestos, organizar ejércitos y administrar recursos.
 
 **Antigüedad**
