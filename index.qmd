@@ -379,7 +379,10 @@ No tiene sentido afirmar:
 **Importancia de las Variables en la Administración Pública**
 
 **Las variables permiten**:
-
+ 
+ 
+ CONCEPTO
+  
 - Diseñar políticas públicas basadas en evidencia.
 - Medir eficiencia institucional.
 - Evaluar impacto social.
